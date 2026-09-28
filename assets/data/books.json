@@ -1,0 +1,23 @@
+﻿[
+  {
+    "id": "nova-aurora",
+    "title": "Nova Aurora",
+    "description": "Histórias e reflexões que florescem virtudes e renovam esperanças.",
+    "cover": "assets/images/main-section.jpeg",
+    "file": "downloads/nova-aurora.pdf"
+  },
+  {
+    "id": "silencios-da-mediunidade",
+    "title": "Silêncios da Mediunidade",
+    "description": "O silêncio que escuta. A mediunidade que transforma.",
+    "cover": "assets/images/main-section.jpeg",
+    "file": "downloads/silencios-da-mediunidade.pdf"
+  },
+  {
+    "id": "naufragos-da-fe",
+    "title": "Náufragos da Fé",
+    "description": "Um olhar profundo sobre os desafios das instituições e da alma humana.",
+    "cover": "assets/images/main-section.jpeg",
+    "file": "downloads/naufragos-da-fe.pdf"
+  }
+]
